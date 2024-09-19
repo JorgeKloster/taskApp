@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406909827494",
+    "project_id": "apptasksjorge",
+    "storage_bucket": "apptasksjorge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406909827494:android:46029dd5b1986f3db9b767",
+        "android_client_info": {
+          "package_name": "com.example.apptasksjorge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_Wb9uuw1jZ6-A2V55Q-_GwKnvKKuAl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
